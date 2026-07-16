@@ -37,3 +37,6 @@ venv/
 
 # Docker
 *.pid
+
+# TokenSave / rtk cache
+.tokensave/
